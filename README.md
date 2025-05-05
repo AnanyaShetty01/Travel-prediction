@@ -2,13 +2,9 @@ This is a simple and stylish login/signup page built using React.js. It's design
 
 ✨ Features
 Responsive login and signup forms
-
 Clean and modern UI
-
 React functional components
-
 Image icons for username, email, and password inputs
-
 Easy-to-edit styles with CSS
 
 🚀 Getting Started
@@ -39,19 +35,14 @@ src/
 
 🧠 How It Works
 The inputs typed into the form (like email and password) are handled on the frontend using React state.
-
 To make the app functional (e.g., to store user data or log in), you'll need to connect it to a backend using APIs.
 
 🔮 Future Improvements
 Connect to a backend like Firebase or Node.js with Express.
-
 Add form validation and error messages.
-
 Include password visibility toggle.
-
 Add animations for smoother user experience.
 
 📚 Learn More
 React Documentation
-
 Create React App Guide
